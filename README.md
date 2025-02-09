@@ -67,5 +67,5 @@ Check out the deployed version here: [GitHub Pages](https://fauve-mce.github.io/
 
 ---
 
-**Author:** Fauve MCE  
+**Author:** Fauve Mareels
 **GitHub:** [Fauve-mce](https://github.com/Fauve-mce)
