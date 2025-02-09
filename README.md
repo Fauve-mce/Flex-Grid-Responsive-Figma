@@ -27,7 +27,6 @@ This project is a **responsive web layout** designed to practice and demonstrate
 
 ![Project Screenshot](./assets/img/image-1.png)
 
-*(Replace the image with an updated screenshot if needed)*
 
 ## 📂 Project Structure
 
