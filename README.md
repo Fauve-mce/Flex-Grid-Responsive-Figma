@@ -1,4 +1,4 @@
-# responsive-news-layout
+# Responsive-news-layout
 ## 📋 Project Overview
 
 This project is a **responsive web layout** designed to practice and demonstrate the use of **CSS Flexbox** and **Grid**. The layout is inspired by a Figma design, aiming to replicate its structure and responsiveness across various devices.
