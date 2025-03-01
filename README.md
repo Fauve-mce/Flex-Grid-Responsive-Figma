@@ -57,7 +57,7 @@ Flex-Grid-Responsive-Figma/
 
 ## 🌐 Live Demo
 
-Check out the deployed version here: [GitHub Pages](https://fauve-mce.github.io/Flex-Grid-Responsive-Figma/)
+Check out the deployed version here: [Explore-Responsive-news-layout](https://fauve-mce.github.io/Responsive-news-layout/)
 
 ## 💡 Key Learnings
 
