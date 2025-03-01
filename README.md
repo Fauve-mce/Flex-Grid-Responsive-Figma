@@ -25,7 +25,7 @@ This project is a **responsive web layout** designed to practice and demonstrate
 
 ## 📸 Project Preview
 
-![Project Screenshot](./assets/img/Responsive-news-layout.png)
+![Project Screenshot](./assets/img/demmo-Responsive-news-layout.png)
 
 
 ## 📂 Project Structure
