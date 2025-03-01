@@ -65,7 +65,3 @@ Check out the deployed version here: [Explore-Responsive-news-layout](https://fa
 - Applying **responsive design** techniques effectively.
 - Translating Figma designs into fully functional web pages.
 
----
-
-**Author:** Fauve Mareels
-**GitHub:** [Fauve-mce](https://github.com/Fauve-mce)
