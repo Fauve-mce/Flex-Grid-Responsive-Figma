@@ -55,13 +55,12 @@ Flex-Grid-Responsive-Figma/
    ```
 3. Open `index.html` in your preferred browser.
 
-## 🌐 Live Demo
-
-Check out the deployed version here: [Explore-Responsive-news-layout](https://fauve-mce.github.io/Responsive-news-layout/)
-
 ## 💡 Key Learnings
 
 - Mastery of **Flexbox** and **Grid** for modern web layouts.
 - Applying **responsive design** techniques effectively.
 - Translating Figma designs into fully functional web pages.
 
+## 🌐 Live Demo
+
+Check out the deployed version here: [Explore-Responsive-news-layout](https://fauve-mce.github.io/Responsive-news-layout/)
